@@ -3,6 +3,7 @@
         "name":"Iqra 1",
         "desc":"Bacaan langsung A - Ba dst. Tidak perlu diurai/dieja. Bacalah dengan suara pendek.",
         "1":{
+            "page":1,
             "text":{
                 "1":"أَ بَ",
                 "2":"بَ أَ بَ",
@@ -21,6 +22,7 @@
             }
         },
         "2":{
+            "page":2,
             "text":{
                 "1":"بَ تَ",
                 "2":"أَ تَ بَ",
