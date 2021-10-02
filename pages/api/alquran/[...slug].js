@@ -1,6 +1,10 @@
 export default async function handler(req, res) {
   const pid = req.query;
 
+  if (parseInt(pid.slug[0]) > 114) {
+    return res.status(200).json({ error: "number of surah not found" });
+  }
+
   const getAlquran = async () => {
     return fetch(`https://alkawn-api.jagad.xyz/alquran/${pid.slug[0]}.json`);
   };
