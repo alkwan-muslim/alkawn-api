@@ -1,0 +1,800 @@
+{
+    "1": {
+        "number": "1",
+        "name": "الفاتحة",
+        "name_latin": "Al-Fatihah",
+        "name_indo": "Pembukaan",
+        "number_of_ayah": "7"
+    },
+    "2": {
+        "number": "2",
+        "name": "البقرة",
+        "name_latin": "Al-Baqarah",
+        "name_indo": "Sapi",
+        "number_of_ayah": "286"
+    },
+    "3": {
+        "number": "3",
+        "name": "اٰل عمران",
+        "name_latin": "Ali 'Imran",
+        "name_indo": "Keluarga Imran",
+        "number_of_ayah": "200"
+    },
+    "4": {
+        "number": "4",
+        "name": "النساۤء",
+        "name_latin": "An-Nisa'",
+        "name_indo": "Wanita",
+        "number_of_ayah": "176"
+    },
+    "5": {
+        "number": "5",
+        "name": "الماۤئدة",
+        "name_latin": "Al-Ma'idah",
+        "name_indo": "Hidangan",
+        "number_of_ayah": "120"
+    },
+    "6": {
+        "number": "6",
+        "name": "الانعام",
+        "name_latin": "Al-An'am",
+        "name_indo": "Binatang Ternak",
+        "number_of_ayah": "165"
+    },
+    "7": {
+        "number": "7",
+        "name": "الاعراف",
+        "name_latin": "Al-A'raf",
+        "name_indo": "Tempat Tertinggi",
+        "number_of_ayah": "206"
+    },
+    "8": {
+        "number": "8",
+        "name": "الانفال",
+        "name_latin": "Al-Anfal",
+        "name_indo": "Rampasan Perang",
+        "number_of_ayah": "75"
+    },
+    "9": {
+        "number": "9",
+        "name": "التوبة",
+        "name_latin": "At-Taubah",
+        "name_indo": "Pengampunan",
+        "number_of_ayah": "129"
+    },
+    "10": {
+        "number": "10",
+        "name": "يونس",
+        "name_latin": "Yunus",
+        "name_indo": "Yunus",
+        "number_of_ayah": "109"
+    },
+    "11": {
+        "number": "11",
+        "name": "هود",
+        "name_latin": "Hud",
+        "name_indo": "Hud",
+        "number_of_ayah": "123"
+    },
+    "12": {
+        "number": "12",
+        "name": "يوسف",
+        "name_latin": "Yusuf",
+        "name_indo": "Yusuf",
+        "number_of_ayah": "111"
+    },
+    "13": {
+        "number": "13",
+        "name": "الرّعد",
+        "name_latin": "Ar-Ra'd",
+        "name_indo": "Guruh",
+        "number_of_ayah": "43"
+    },
+    "14": {
+        "number": "14",
+        "name": "ابرٰهيم",
+        "name_latin": "Ibrahim",
+        "name_indo": "Ibrahim",
+        "number_of_ayah": "52"
+    },
+    "15": {
+        "number": "15",
+        "name": "الحجر",
+        "name_latin": "Al-Hijr",
+        "name_indo": "Hijr",
+        "number_of_ayah": "99"
+    },
+    "16": {
+        "number": "16",
+        "name": "النحل",
+        "name_latin": "An-Nahl",
+        "name_indo": "Lebah",
+        "number_of_ayah": "128"
+    },
+    "17": {
+        "number": "17",
+        "name": "الاسراۤء",
+        "name_latin": "Al-Isra'",
+        "name_indo": "Memperjalankan Malam Hari",
+        "number_of_ayah": "111"
+    },
+    "18": {
+        "number": "18",
+        "name": "الكهف",
+        "name_latin": "Al-Kahf",
+        "name_indo": "Goa",
+        "number_of_ayah": "110"
+    },
+    "19": {
+        "number": "19",
+        "name": "مريم",
+        "name_latin": "Maryam",
+        "name_indo": "Maryam",
+        "number_of_ayah": "98"
+    },
+    "20": {
+        "number": "20",
+        "name": "طٰهٰ",
+        "name_latin": "Taha",
+        "name_indo": "Taha",
+        "number_of_ayah": "135"
+    },
+    "21": {
+        "number": "21",
+        "name": "الانبياۤء",
+        "name_latin": "Al-Anbiya'",
+        "name_indo": "Para Nabi",
+        "number_of_ayah": "112"
+    },
+    "22": {
+        "number": "22",
+        "name": "الحج",
+        "name_latin": "Al-Hajj",
+        "name_indo": "Haji",
+        "number_of_ayah": "78"
+    },
+    "23": {
+        "number": "23",
+        "name": "المؤمنون",
+        "name_latin": "Al-Mu'minun",
+        "name_indo": "Orang-Orang Mukmin",
+        "number_of_ayah": "118"
+    },
+    "24": {
+        "number": "24",
+        "name": "النّور",
+        "name_latin": "An-Nur",
+        "name_indo": "Cahaya",
+        "number_of_ayah": "64"
+    },
+    "25": {
+        "number": "25",
+        "name": "الفرقان",
+        "name_latin": "Al-Furqan",
+        "name_indo": "Pembeda",
+        "number_of_ayah": "77"
+    },
+    "26": {
+        "number": "26",
+        "name": "الشعراۤء",
+        "name_latin": "Asy-Syu'ara'",
+        "name_indo": "Para Penyair",
+        "number_of_ayah": "227"
+    },
+    "27": {
+        "number": "27",
+        "name": "النمل",
+        "name_latin": "An-Naml",
+        "name_indo": "Semut-semut",
+        "number_of_ayah": "93"
+    },
+    "28": {
+        "number": "28",
+        "name": "القصص",
+        "name_latin": "Al-Qasas",
+        "name_indo": "Kisah-Kisah",
+        "number_of_ayah": "88"
+    },
+    "29": {
+        "number": "29",
+        "name": "العنكبوت",
+        "name_latin": "Al-'Ankabut",
+        "name_indo": "Laba-Laba",
+        "number_of_ayah": "69"
+    },
+    "30": {
+        "number": "30",
+        "name": "الرّوم",
+        "name_latin": "Ar-Rum",
+        "name_indo": "Romawi",
+        "number_of_ayah": "60"
+    },
+    "31": {
+        "number": "31",
+        "name": "لقمٰن",
+        "name_latin": "Luqman",
+        "name_indo": "Luqman",
+        "number_of_ayah": "34"
+    },
+    "32": {
+        "number": "32",
+        "name": "السّجدة",
+        "name_latin": "As-Sajdah",
+        "name_indo": "Sajdah",
+        "number_of_ayah": "30"
+    },
+    "33": {
+        "number": "33",
+        "name": "الاحزاب",
+        "name_latin": "Al-Ahzab",
+        "name_indo": "Golongan Yang Bersekutu",
+        "number_of_ayah": "73"
+    },
+    "34": {
+        "number": "34",
+        "name": "سبأ",
+        "name_latin": "Saba'",
+        "name_indo": "Saba'",
+        "number_of_ayah": "54"
+    },
+    "35": {
+        "number": "35",
+        "name": "فاطر",
+        "name_latin": "Fatir",
+        "name_indo": "Maha Pencipta",
+        "number_of_ayah": "45"
+    },
+    "36": {
+        "number": "36",
+        "name": "يٰسۤ",
+        "name_latin": "Yasin",
+        "name_indo": "Yasin",
+        "number_of_ayah": "83"
+    },
+    "37": {
+        "number": "37",
+        "name": "الصّٰۤفّٰت",
+        "name_latin": "As-Saffat",
+        "name_indo": "Barisan-Barisan",
+        "number_of_ayah": "182"
+    },
+    "38": {
+        "number": "38",
+        "name": "ص",
+        "name_latin": "Sad",
+        "name_indo": "Sad",
+        "number_of_ayah": "88"
+    },
+    "39": {
+        "number": "39",
+        "name": "الزمر",
+        "name_latin": "Az-Zumar",
+        "name_indo": "Rombongan",
+        "number_of_ayah": "75"
+    },
+    "40": {
+        "number": "40",
+        "name": "غافر",
+        "name_latin": "Gafir",
+        "name_indo": "Maha Pengampun",
+        "number_of_ayah": "85"
+    },
+    "41": {
+        "number": "41",
+        "name": "فصّلت",
+        "name_latin": "Fussilat",
+        "name_indo": "Yang Dijelaskan",
+        "number_of_ayah": "54"
+    },
+    "42": {
+        "number": "42",
+        "name": "الشورى",
+        "name_latin": "Asy-Syura",
+        "name_indo": "Musyawarah",
+        "number_of_ayah": "53"
+    },
+    "43": {
+        "number": "43",
+        "name": "الزخرف",
+        "name_latin": "Az-Zukhruf",
+        "name_indo": "Perhiasan",
+        "number_of_ayah": "89"
+    },
+    "44": {
+        "number": "44",
+        "name": "الدخان",
+        "name_latin": "Ad-Dukhan",
+        "name_indo": "Kabut",
+        "number_of_ayah": "59"
+    },
+    "45": {
+        "number": "45",
+        "name": "الجاثية",
+        "name_latin": "Al-Jasiyah",
+        "name_indo": "Berlutut",
+        "number_of_ayah": "37"
+    },
+    "46": {
+        "number": "46",
+        "name": "الاحقاف",
+        "name_latin": "Al-Ahqaf",
+        "name_indo": "Bukit Pasir",
+        "number_of_ayah": "35"
+    },
+    "47": {
+        "number": "47",
+        "name": "محمّد",
+        "name_latin": "Muhammad",
+        "name_indo": "Muhammad",
+        "number_of_ayah": "38"
+    },
+    "48": {
+        "number": "48",
+        "name": "الفتح",
+        "name_latin": "Al-Fath",
+        "name_indo": "Kemenangan",
+        "number_of_ayah": "29"
+    },
+    "49": {
+        "number": "49",
+        "name": "الحجرٰت",
+        "name_latin": "Al-Hujurat",
+        "name_indo": "Kamar-Kamar",
+        "number_of_ayah": "18"
+    },
+    "50": {
+        "number": "50",
+        "name": "ق",
+        "name_latin": "Qaf",
+        "name_indo": "Qaf",
+        "number_of_ayah": "45"
+    },
+    "51": {
+        "number": "51",
+        "name": "الذّٰريٰت",
+        "name_latin": "Az-Zariyat",
+        "name_indo": "Angin yang Menerbangkan",
+        "number_of_ayah": "60"
+    },
+    "52": {
+        "number": "52",
+        "name": "الطور",
+        "name_latin": "At-Tur",
+        "name_indo": "Bukit Tursina",
+        "number_of_ayah": "49"
+    },
+    "53": {
+        "number": "53",
+        "name": "النجم",
+        "name_latin": "An-Najm",
+        "name_indo": "Bintang",
+        "number_of_ayah": "62"
+    },
+    "54": {
+        "number": "54",
+        "name": "القمر",
+        "name_latin": "Al-Qamar",
+        "name_indo": "Bulan",
+        "number_of_ayah": "55"
+    },
+    "55": {
+        "number": "55",
+        "name": "الرحمن",
+        "name_latin": "Ar-Rahman",
+        "name_indo": "Maha Pengasih",
+        "number_of_ayah": "78"
+    },
+    "56": {
+        "number": "56",
+        "name": "الواقعة",
+        "name_latin": "Al-Waqi'ah",
+        "name_indo": "Hari Kiamat",
+        "number_of_ayah": "96"
+    },
+    "57": {
+        "number": "57",
+        "name": "الحديد",
+        "name_latin": "Al-Hadid",
+        "name_indo": "Besi",
+        "number_of_ayah": "29"
+    },
+    "58": {
+        "number": "58",
+        "name": "المجادلة",
+        "name_latin": "Al-Mujadalah",
+        "name_indo": "Gugatan",
+        "number_of_ayah": "22"
+    },
+    "59": {
+        "number": "59",
+        "name": "الحشر",
+        "name_latin": "Al-Hasyr",
+        "name_indo": "Pengusiran",
+        "number_of_ayah": "24"
+    },
+    "60": {
+        "number": "60",
+        "name": "الممتحنة",
+        "name_latin": "Al-Mumtahanah",
+        "name_indo": "Wanita Yang Diuji",
+        "number_of_ayah": "13"
+    },
+    "61": {
+        "number": "61",
+        "name": "الصّفّ",
+        "name_latin": "As-Saff",
+        "name_indo": "Barisan",
+        "number_of_ayah": "14"
+    },
+    "62": {
+        "number": "62",
+        "name": "الجمعة",
+        "name_latin": "Al-Jumu'ah",
+        "name_indo": "Jumat",
+        "number_of_ayah": "11"
+    },
+    "63": {
+        "number": "63",
+        "name": "المنٰفقون",
+        "name_latin": "Al-Munafiqun",
+        "name_indo": "Orang-Orang Munafik",
+        "number_of_ayah": "11"
+    },
+    "64": {
+        "number": "64",
+        "name": "التغابن",
+        "name_latin": "At-Tagabun",
+        "name_indo": "Pengungkapan Kesalahan",
+        "number_of_ayah": "18"
+    },
+    "65": {
+        "number": "65",
+        "name": "الطلاق",
+        "name_latin": "At-Talaq",
+        "name_indo": "Talak",
+        "number_of_ayah": "12"
+    },
+    "66": {
+        "number": "66",
+        "name": "التحريم",
+        "name_latin": "At-Tahrim",
+        "name_indo": "Pengharaman",
+        "number_of_ayah": "12"
+    },
+    "67": {
+        "number": "67",
+        "name": "الملك",
+        "name_latin": "Al-Mulk",
+        "name_indo": "Kerajaan",
+        "number_of_ayah": "30"
+    },
+    "68": {
+        "number": "68",
+        "name": "القلم",
+        "name_latin": "Al-Qalam",
+        "name_indo": "Pena",
+        "number_of_ayah": "52"
+    },
+    "69": {
+        "number": "69",
+        "name": "الحاۤقّة",
+        "name_latin": "Al-Haqqah",
+        "name_indo": "Hari Kiamat",
+        "number_of_ayah": "52"
+    },
+    "70": {
+        "number": "70",
+        "name": "المعارج",
+        "name_latin": "Al-Ma'arij",
+        "name_indo": "Tempat Naik",
+        "number_of_ayah": "44"
+    },
+    "71": {
+        "number": "71",
+        "name": "نوح",
+        "name_latin": "Nuh",
+        "name_indo": "Nuh",
+        "number_of_ayah": "28"
+    },
+    "72": {
+        "number": "72",
+        "name": "الجن",
+        "name_latin": "Al-Jinn",
+        "name_indo": "Jin",
+        "number_of_ayah": "28"
+    },
+    "73": {
+        "number": "73",
+        "name": "المزّمّل",
+        "name_latin": "Al-Muzzammil",
+        "name_indo": "Orang Yang Berselimut",
+        "number_of_ayah": "20"
+    },
+    "74": {
+        "number": "74",
+        "name": "المدّثّر",
+        "name_latin": "Al-Muddassir",
+        "name_indo": "Orang Yang Berkemul",
+        "number_of_ayah": "56"
+    },
+    "75": {
+        "number": "75",
+        "name": "القيٰمة",
+        "name_latin": "Al-Qiyamah",
+        "name_indo": "Hari Kiamat",
+        "number_of_ayah": "40"
+    },
+    "76": {
+        "number": "76",
+        "name": "الانسان",
+        "name_latin": "Al-Insan",
+        "name_indo": "Manusia",
+        "number_of_ayah": "31"
+    },
+    "77": {
+        "number": "77",
+        "name": "المرسلٰت",
+        "name_latin": "Al-Mursalat",
+        "name_indo": "Malaikat Yang Diutus",
+        "number_of_ayah": "50"
+    },
+    "78": {
+        "number": "78",
+        "name": "النبأ",
+        "name_latin": "An-Naba'",
+        "name_indo": "Berita Besar",
+        "number_of_ayah": "40"
+    },
+    "79": {
+        "number": "79",
+        "name": "النّٰزعٰت",
+        "name_latin": "An-Nazi'at",
+        "name_indo": "Malaikat Yang Mencabut",
+        "number_of_ayah": "46"
+    },
+    "80": {
+        "number": "80",
+        "name": "عبس",
+        "name_latin": "'Abasa",
+        "name_indo": "Bermuka Masam",
+        "number_of_ayah": "42"
+    },
+    "81": {
+        "number": "81",
+        "name": "التكوير",
+        "name_latin": "At-Takwir",
+        "name_indo": "Penggulungan",
+        "number_of_ayah": "29"
+    },
+    "82": {
+        "number": "82",
+        "name": "الانفطار",
+        "name_latin": "Al-Infitar",
+        "name_indo": "Terbelah",
+        "number_of_ayah": "19"
+    },
+    "83": {
+        "number": "83",
+        "name": "المطفّفين",
+        "name_latin": "Al-Mutaffifin",
+        "name_indo": "Orang-Orang Curang",
+        "number_of_ayah": "36"
+    },
+    "84": {
+        "number": "84",
+        "name": "الانشقاق",
+        "name_latin": "Al-Insyiqaq",
+        "name_indo": "Terbelah",
+        "number_of_ayah": "25"
+    },
+    "85": {
+        "number": "85",
+        "name": "البروج",
+        "name_latin": "Al-Buruj",
+        "name_indo": "Gugusan Bintang",
+        "number_of_ayah": "22"
+    },
+    "86": {
+        "number": "86",
+        "name": "الطارق",
+        "name_latin": "At-Tariq",
+        "name_indo": "Yang Datang Di Malam Hari",
+        "number_of_ayah": "17"
+    },
+    "87": {
+        "number": "87",
+        "name": "الاعلى",
+        "name_latin": "Al-A'la",
+        "name_indo": "Maha Tinggi",
+        "number_of_ayah": "19"
+    },
+    "88": {
+        "number": "88",
+        "name": "الغاشية",
+        "name_latin": "Al-Gasyiyah",
+        "name_indo": "Hari Kiamat",
+        "number_of_ayah": "26"
+    },
+    "89": {
+        "number": "89",
+        "name": "الفجر",
+        "name_latin": "Al-Fajr",
+        "name_indo": "Fajar",
+        "number_of_ayah": "30"
+    },
+    "90": {
+        "number": "90",
+        "name": "البلد",
+        "name_latin": "Al-Balad",
+        "name_indo": "Negeri",
+        "number_of_ayah": "20"
+    },
+    "91": {
+        "number": "91",
+        "name": "الشمس",
+        "name_latin": "Asy-Syams",
+        "name_indo": "Matahari",
+        "number_of_ayah": "15"
+    },
+    "92": {
+        "number": "92",
+        "name": "الّيل",
+        "name_latin": "Al-Lail",
+        "name_indo": "Malam",
+        "number_of_ayah": "21"
+    },
+    "93": {
+        "number": "93",
+        "name": "الضحى",
+        "name_latin": "Ad-Duha",
+        "name_indo": "Duha",
+        "number_of_ayah": "11"
+    },
+    "94": {
+        "number": "94",
+        "name": "الشرح",
+        "name_latin": "Asy-Syarh",
+        "name_indo": "Lapang",
+        "number_of_ayah": "8"
+    },
+    "95": {
+        "number": "95",
+        "name": "التين",
+        "name_latin": "At-Tin",
+        "name_indo": "Buah Tin",
+        "number_of_ayah": "8"
+    },
+    "96": {
+        "number": "96",
+        "name": "العلق",
+        "name_latin": "Al-'Alaq",
+        "name_indo": "Segumpal Darah",
+        "number_of_ayah": "19"
+    },
+    "97": {
+        "number": "97",
+        "name": "القدر",
+        "name_latin": "Al-Qadr",
+        "name_indo": "Kemuliaan",
+        "number_of_ayah": "5"
+    },
+    "98": {
+        "number": "98",
+        "name": "البيّنة",
+        "name_latin": "Al-Bayyinah",
+        "name_indo": "Bukti Nyata",
+        "number_of_ayah": "8"
+    },
+    "99": {
+        "number": "99",
+        "name": "الزلزلة",
+        "name_latin": "Az-Zalzalah",
+        "name_indo": "Guncangan",
+        "number_of_ayah": "8"
+    },
+    "100": {
+        "number": "100",
+        "name": "العٰديٰت",
+        "name_latin": "Al-'Adiyat",
+        "name_indo": "Kuda Yang Berlari Kencang",
+        "number_of_ayah": "11"
+    },
+    "101": {
+        "number": "101",
+        "name": "القارعة",
+        "name_latin": "Al-Qari'ah",
+        "name_indo": "Hari Kiamat",
+        "number_of_ayah": "11"
+    },
+    "102": {
+        "number": "102",
+        "name": "التكاثر",
+        "name_latin": "At-Takasur",
+        "name_indo": "Bermegah-Megahan",
+        "number_of_ayah": "8"
+    },
+    "103": {
+        "number": "103",
+        "name": "العصر",
+        "name_latin": "Al-'Asr",
+        "name_indo": "Asar",
+        "number_of_ayah": "3"
+    },
+    "104": {
+        "number": "104",
+        "name": "الهمزة",
+        "name_latin": "Al-Humazah",
+        "name_indo": "Pengumpat",
+        "number_of_ayah": "9"
+    },
+    "105": {
+        "number": "105",
+        "name": "الفيل",
+        "name_latin": "Al-Fil",
+        "name_indo": "Gajah",
+        "number_of_ayah": "5"
+    },
+    "106": {
+        "number": "106",
+        "name": "قريش",
+        "name_latin": "Quraisy",
+        "name_indo": "Quraisy",
+        "number_of_ayah": "4"
+    },
+    "107": {
+        "number": "107",
+        "name": "الماعون",
+        "name_latin": "Al-Ma'un",
+        "name_indo": "Barang Yang Berguna",
+        "number_of_ayah": "7"
+    },
+    "108": {
+        "number": "108",
+        "name": "الكوثر",
+        "name_latin": "Al-Kausar",
+        "name_indo": "Pemberian Yang Banyak",
+        "number_of_ayah": "3"
+    },
+    "109": {
+        "number": "109",
+        "name": "الكٰفرون",
+        "name_latin": "Al-Kafirun",
+        "name_indo": "Orang-Orang kafir",
+        "number_of_ayah": "6"
+    },
+    "110": {
+        "number": "110",
+        "name": "النصر",
+        "name_latin": "An-Nasr",
+        "name_indo": "Pertolongan",
+        "number_of_ayah": "3"
+    },
+    "111": {
+        "number": "111",
+        "name": "اللهب",
+        "name_latin": "Al-Lahab",
+        "name_indo": "Api Yang Bergejolak",
+        "number_of_ayah": "5"
+    },
+    "112": {
+        "number": "112",
+        "name": "الاخلاص",
+        "name_latin": "Al-Ikhlas",
+        "name_indo": "Ikhlas",
+        "number_of_ayah": "4"
+    },
+    "113": {
+        "number": "113",
+        "name": "الفلق",
+        "name_latin": "Al-Falaq",
+        "name_indo": "Subuh",
+        "number_of_ayah": "5"
+    },
+    "114": {
+        "number": "114",
+        "name": "الناس",
+        "name_latin": "An-Nas",
+        "name_indo": "Manusia",
+        "number_of_ayah": "6"
+    }
+}
