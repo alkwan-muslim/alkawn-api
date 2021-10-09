@@ -8,10 +8,19 @@ export async function getStaticProps() {
 }
 
 const Index = ({ data }) => {
+  var surah = [];
+  for (let i = 1; i <= 114; i++) {
+    surah.push(i);
+  }
   console.log(data);
   return (
     <div>
-      <h1>test</h1>
+      {surah.map((item) => (
+        <div key={item}>
+          <h1>{data[item].name_latin}</h1>
+          <p>{data[item].name}</p>
+        </div>
+      ))}
     </div>
   );
 };
