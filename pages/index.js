@@ -20,6 +20,7 @@ export default function Home({ data }) {
           <p>{index + 1}</p>
           <p>{data.text[item]}</p>
           <p>{data.translations.id.text[item]}</p>
+          <p>{data.tafsir.id.kemenag.text[item]}</p>
         </div>
       ))}
     </div>
